@@ -173,8 +173,8 @@ recipe-explorer/
   ### Contact 
 ## For questions or suggestions, feel free to contact:
 
-- **Email**: siva4kumar2003@gmail.com
-- **GitHub**: SivakumarSelvaraj2003
+- **Email**: nagamathikaliraj@gmail.com
+
 
 
 ### Happy cooking and coding! 
